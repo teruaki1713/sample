@@ -60,6 +60,7 @@ table {
 body {
   width: 100%;
   background: white;
+  font-family: 'Noto Sans JP', sans-serif;
 }
 
 body main .wrapper {
